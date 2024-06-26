@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Greenned's Garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+취향과 일에 대해 정리 중 입니다...
