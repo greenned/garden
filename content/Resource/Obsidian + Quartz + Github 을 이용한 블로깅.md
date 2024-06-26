@@ -22,9 +22,6 @@ tags:
 - 원격저장소: Github
 - 동적사이트 생성기: Quartz
 
-필요한 기능들은 위와 같이 활용하였고 결과적으로 [홈페이지](greenned.github.io)와 아래와 같은 Obsidian 환경을 만들 었다
-![[Source/image/Pasted image 20240626165129.png]]
-
 
 - 아래의 유튜브 영상을 많이 참고하였다
 	- [YouTube: How to publish your notes for free with Quartz](https://www.youtube.com/watch?v=6s6DT1yN4dw)
@@ -85,10 +82,9 @@ npx quartz sync
 npx quartz build --serve
 ```
 
-![[Source/image/Pasted image 20240626162805.png]]
 
-- 위와 같은 화면이 보이면 일단은 성공
 - 이제 github page 호스팅만 해주면 되는데 아래의 github action yml 문을 quartz 폴더 내의 .github/workflows 하위에 복사해주고 `npx quartz sync` 명령어를 이용해 배포만 해주면 완료
+- 결과적으로 지금 보고 있는 이러한 홈페이지를 만들 수 있다
 
 
 
