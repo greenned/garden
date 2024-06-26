@@ -4,6 +4,8 @@ longform:
   title: Resource
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Obsidian + Quartz + Github 을 이용한 블로깅
+  sceneTemplate: Kanban/Templates/chapter.md
   ignoredFiles: []
 ---
