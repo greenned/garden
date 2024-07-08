@@ -1,11 +1,11 @@
 ---
 longform:
   format: scenes
-  title: Thought
+  title: Coffee
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - 커피
+    - Interest
   sceneTemplate: Kanban/Templates/chapter.md
   ignoredFiles: []
 ---
