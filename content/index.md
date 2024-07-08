@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: "\bWelcome"
 Author:
   - Seungmin Yoon
 Author Profile:
@@ -15,7 +15,8 @@ description: My Greenned Garden
 
 ## Language
 
-- [Java](https://greenned.github.io/Java)
+## Thought
+
 
 
 
