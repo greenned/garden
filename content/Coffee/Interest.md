@@ -4,7 +4,7 @@ draft: false
 tags:
   - 
 ---
-![reflect](./src/IMG_0882.jpeg)
+![[IMG_0882.jpeg|500]]
 
 
 
